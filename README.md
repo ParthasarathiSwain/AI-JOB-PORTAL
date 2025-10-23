@@ -155,6 +155,6 @@ MIT License
 
 ## **Author** 👨‍💻
 **Parthasarathi Swain – Full Stack Java Developer**
-📧 Email: rajaswain6969@gmail.com
-LinkedIn: [https://www.linkedin.com/in/parthasarathiswain](https://www.linkedin.com/in/parthasarathiswain)
+📧 **Email**: rajaswain6969@gmail.com
+**LinkedIn**: [https://www.linkedin.com/in/parthasarathiswain](https://www.linkedin.com/in/parthasarathiswain)
 
